@@ -24,7 +24,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock Up Dashboard
 
-(![.](<mock up dashboard_atliq grands.png>))
+(![.](https://github.com/Vishwajeetkumarsingh/AtliQ_Hospitality_Revenue_Analysis/blob/my-new-branch/Images/mock%20up%20dashboard_atliq%20grands.png))
 
 
 
