@@ -34,7 +34,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Dashboard View
 
-![.](<Screenshot (10).png>)
+![.](https://github.com/Vishwajeetkumarsingh/AtliQ_Hospitality_Revenue_Analysis/blob/my-new-branch/Images/Home_Dashboard.png)
 
 ## Learnt things from this Project
 
