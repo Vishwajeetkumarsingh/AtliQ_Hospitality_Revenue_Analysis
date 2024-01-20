@@ -24,13 +24,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock Up Dashboard
 
-(![.](https://github.com/Vishwajeetkumarsingh/AtliQ_Hospitality_Revenue_Analysis/blob/my-new-branch/Images/mock%20up%20dashboard_atliq%20grands.png))
+![.](https://github.com/Vishwajeetkumarsingh/AtliQ_Hospitality_Revenue_Analysis/blob/my-new-branch/Images/mock%20up%20dashboard_atliq%20grands.png)
 
 
 
 ## Data Model
 
-(![.](<Screenshot (11).png>))
+![.](https://github.com/Vishwajeetkumarsingh/AtliQ_Hospitality_Revenue_Analysis/blob/my-new-branch/Images/Data_Model.png)
 
 ## Dashboard View
 
